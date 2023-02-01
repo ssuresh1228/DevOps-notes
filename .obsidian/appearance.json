@@ -1,0 +1,11 @@
+{
+  "accentColor": "#007bff",
+  "theme": "obsidian",
+  "cssTheme": "ion",
+  "baseFontSize": 19,
+  "translucency": false,
+  "nativeMenus": false,
+  "showViewHeader": true,
+  "textFontFamily": "JetBrains Mono NL",
+  "interfaceFontFamily": "JetBrains Mono"
+}
