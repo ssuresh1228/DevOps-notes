@@ -2,7 +2,7 @@
 Created: 2023-01-31 15:13
 
 ## Notes Types
-- [[Zettelkasten Notes]] taking process + personal knowledge management system
+- [[zettelkasten-notes]] taking process + personal knowledge management system
 - 3 types of notes:
 	- _basic_: temporary notes; used to create detailed notes
 	- _detailed_: basic notes that have been combined + cleaned up
@@ -13,7 +13,7 @@ Created: 2023-01-31 15:13
 
 
 ## Connections Between Notes
-- Once note hierarchy is completed, link the notes together based on some [[Connections between notes]]
+- Once note hierarchy is completed, link the notes together based on some [[connections-between-notes]]
 	- How does this idea fit into what I already know?
 	- What does this idea mean for some already existing idea?
 	- Does this add to/contradict/explain another idea I already have?
