@@ -56,7 +56,9 @@ Created: 2023-01-31 18:23
 # Ad-Hoc Commands
 - Uses command line to run a task on 1 or more managed nodes
 > [!info]
-> Syntax: `ansible [pattern] -m [module] -a "[module options]"`
+> - Syntax: `ansible [pattern] -m [module] -a "[module options]"`
+> - any module can be run as an ad-hoc command
+> - can be executed on single/multiple hosts using any inventory
 
 ---
 # Ansible Facts

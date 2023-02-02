@@ -4,9 +4,13 @@ Created: 2023-01-31 17:57
 ---
 # Infrastructure as Code
 - Enables automation of building/deploying/managing via code
-### 2 Approaches exist:
-- _Imperative_: defines a series of steps for infra to reach desired result
-- _Declarative_: "declares" desired outcome; doesn't outline steps needed to reach result
+> [!note]
+> 2 approaches exist: 
+> 
+> 	1. Imperative: defines a series of steps for infra to reach desired result
+> 	
+> 	2. Declarative: "declares" desired outcome; doesn't outline steps needed to reach result 
+
 ___
 # Ansible Overview
  - Deployment Automation tool
