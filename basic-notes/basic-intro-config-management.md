@@ -33,4 +33,3 @@ Ansible's push based approach eliminates the need for polling with central serve
 ## Tags
 #ansible
 #configuration-management
-#infrastructure

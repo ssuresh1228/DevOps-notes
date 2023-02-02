@@ -185,8 +185,8 @@ ___
 
 
 # References
-- [[basic-ansible-architecture]]
-- [[basic-intro-config-management]]
+
+
 ## Tags
 - #adhoc-commands 
 - #playbook 
