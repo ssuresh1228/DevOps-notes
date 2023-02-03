@@ -1,6 +1,6 @@
 Created: 2023-01-31 18:23
 
-# Architecture Overview
+# Ansible Architecture Overview
 - ![[Pasted image 20230131185930.png]]
 ----
 # Control and Managed Nodes
@@ -14,8 +14,11 @@ Created: 2023-01-31 18:23
 - File that contains a list of _all_ managed nodes
 	- Users can group machines as requires
 - Common file formats: ini, YAML
+
 >[!tip]
->Ansible can work on _multiple systems at the same time by selecting *portions* of hosts_ in the inventory
+>- Ansible can work on _multiple systems at the same time by selecting *portions* of hosts_ in the inventory
+>
+>- default location: `/etc/ansible/hosts`
  
 ---
 # Playbooks 
@@ -73,16 +76,16 @@ Created: 2023-01-31 18:23
 
 ---
 # References
-- [[basic-intro-config-management]]
+- [[pres-intro-config-management]]
 - [Edureka Ansible Presentation 1](https://learning.edureka.co/classroom/presentation/1483/12387/1479293?tab=CourseContent)
 
 ## Tags
 #ansible
-#configuration-management
-#playbook
-#variables
-#modules
-#tasks
+#ansible-configuration-management
+#ansible-playbook
+#ansible-variables
+#ansible-modules
+#ansible-tasks
 #adhoc-commands
 
 ---

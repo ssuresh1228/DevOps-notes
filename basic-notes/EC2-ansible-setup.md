@@ -34,7 +34,7 @@ Created: 2023-02-02 13:08
 ---
 
 # References
-[[]] 
+
 ## Tags
 - #ansible 
 - #AWS

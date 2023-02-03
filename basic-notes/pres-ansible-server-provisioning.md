@@ -1,6 +1,6 @@
 Created: 2023-02-01 14:33
-
 # Server Provisioning with Ansible CLI & Playbooks
+
 ---
 
 # Automation using Ansible
@@ -18,19 +18,19 @@ Created: 2023-02-01 14:33
 - The desired state of servers are outlined in an automation script
 - Ansible's automation engine handles differences between host servers
 - 2 methods of automating:
-	- [[basic-ansible-architecture#Ad-Hoc Commands|ad-hoc commands]]
-	- [[basic-ansible-architecture#Playbooks|playbooks]]
+	- [[pres-ansible-architecture#Ad-Hoc Commands|ad-hoc commands]]
+	- [[pres-ansible-architecture#Playbooks|playbooks]]
 
 ---
 # Playbooks
 
  > [!info]
- > - [[basic-ansible-architecture#Playbooks|playbooks]] are Ansible's access point for server provisioning
+ > - [[pres-ansible-architecture#Playbooks|playbooks]] are Ansible's access point for server provisioning
  > - Usually written in YAML
  > - Advanced use-cases include multi-tier layouts and load balancing
 
 ## Modules
-- [[basic-ansible-architecture#Modules|Modules]] are units of code that do work
+- [[pres-ansible-architecture#Modules|Modules]] are units of code that do work
 - Used to control system resources & handle system tasks
 - Can use built-in modules from Ansible's built-in library or create custom modules
 > [!note]
@@ -41,7 +41,7 @@ Created: 2023-02-01 14:33
 # Playbook Structure
 
 > [!tip]
-> major components of a [[basic-ansible-architecture#Playbooks|playbook]]:
+> major components of a [[pres-ansible-architecture#Playbooks|playbook]]:
 > - 3 hyphens to denote start of a playbook
 > - Hosts
 > - _become_ keyword
@@ -189,8 +189,5 @@ ___
 
 ## Tags
 - #adhoc-commands 
-- #playbook 
-- #variables
-- #handlers
-
+- #ansible-playbook 
 ---

@@ -6,7 +6,7 @@ Created: 2023-02-01 19:00
 
 ---
 # References
-1. [[basic-ansible-server-provisioning|server provisioning presentation]]
+1. [[pres-ansible-server-provisioning|server provisioning presentation]]
 
 
 ## Tags

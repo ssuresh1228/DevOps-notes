@@ -1,4 +1,6 @@
 Created: {{date}} {{time}}
+# {{title}}
+---
 
 
 ---
