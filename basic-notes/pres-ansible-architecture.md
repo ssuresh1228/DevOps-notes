@@ -80,12 +80,11 @@ Created: 2023-01-31 18:23
 - [Edureka Ansible Presentation 1](https://learning.edureka.co/classroom/presentation/1483/12387/1479293?tab=CourseContent)
 
 ## Tags
-#ansible
-#ansible-configuration-management
 #ansible-playbook
 #ansible-variables
 #ansible-modules
 #ansible-tasks
-#adhoc-commands
+#ansible-adhoc
+#ansible-inventory 
 
 ---

@@ -39,12 +39,16 @@ Created: 2023-02-02 18:08
 	- RackSpace
 	- AWS EC2
 	- OpenStack
-## 
+## Advantages
+- Reduces human error
+- minimal effort to manage
+> [!note]
+> Any programming language can be used to customize dynamic inventory, but a dynamic inventory **must return in JSON** when appropriate options are passed
 
 
 ---
 # References
-- [Ansible docs on inventory](https://docs.ansible.com/ansible/latest/inventory_guide/intro_inventory.html)
+- [Ansible inventory documentation](https://docs.ansible.com/ansible/latest/inventory_guide/intro_inventory.html)
 
 ## Tags
 - #ansible-inventory 

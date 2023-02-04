@@ -47,6 +47,5 @@ Created: 2023-02-02 14:45
 - [[pres-ansible-architecture#Playbooks|Playbook overview]]
 
 ## Tags
-- #playbook 
-- #ansible 
+- #ansible-playbook 
 ---

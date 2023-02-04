@@ -19,7 +19,7 @@ Created: 2023-02-02 13:08
 
 ---
 # Setting up Hosts
-1. Edit the hosts file in the ansible directory
+1. Edit the [[pres-ansible-server-provisioning#Hosts|hosts]] file in the ansible directory
 	- default location: `/etc/ansible/hosts`
 >[!note]
 >In the hosts file, add the server as shown:
@@ -28,12 +28,14 @@ Created: 2023-02-02 13:08
 2. Test connection 
 - `cd /etc/ansible`
 >[!note]
->Use Ansible's ping module to check connection with hosts:
+>Use Ansible's ping [[ansible-module-types#Module Types|module]] to check connection with hosts:
 >`ansible -m ping <hosts>`
 
 ---
 
 # References
+- [[pres-ansible-server-provisioning#Hosts|Ansible hosts overview]]
+- [[ansible-module-types#Module Types|Ansible module types]]
 
 ## Tags
 - #ansible 

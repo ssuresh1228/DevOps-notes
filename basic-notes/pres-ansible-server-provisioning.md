@@ -79,8 +79,7 @@ Created: 2023-02-01 14:33
 >![[Pasted image 20230201171110.png]]
 
 ## Handlers 
-- tasks can contain notify actions that are triggered at the end of a play
-- Notify triggers call upon tasks in this section
+- Tasks that are based on some action/trigger
 >[!example]
 >![[Pasted image 20230201171235.png]]
 
@@ -185,7 +184,7 @@ ___
 
 
 # References
-
+- [Ansible playbook documentation](https://docs.ansible.com/ansible/latest/playbook_guide/playbooks.html)
 
 ## Tags
 - #adhoc-commands 

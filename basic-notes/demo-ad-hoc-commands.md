@@ -23,7 +23,5 @@ Created: 2023-02-02 14:36
 - [[pres-ansible-architecture#Ad-Hoc Commands|ad-hoc commands]]
 
 ## Tags
-- #ansible 
-- #adhoc-commands 
-- #configuration-management 
+- #ansible-adhoc  
 ---

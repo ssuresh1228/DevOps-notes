@@ -4,7 +4,7 @@
 2. [[pres-intro-config-management]]
 3. [[pres-ansible-server-provisioning]]
 4. [[pres-ansible-modules-roles]]
-5. [[pres-ansible-modules-roles]]
+5. 
 ---
 # Demos
 - [[demo-ad-hoc-commands]]
