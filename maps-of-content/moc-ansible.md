@@ -1,10 +1,9 @@
 
 # Presentations
-1. [[pres-ansible-architecture]]
-2. [[pres-intro-config-management]]
-3. [[pres-ansible-server-provisioning]]
-4. [[pres-ansible-modules-roles]]
-5. 
+1. [[pres-ansible-architecture|Ansible Architecture]]
+2. [[pres-intro-config-management|Intro to Config Management]]
+3. [[pres-ansible-server-provisioning|Server Provisioning]]
+4. [[pres-ansible-modules-roles|Modules and Roles]] 
 ---
 # Demos
 - [[demo-ad-hoc-commands]]
