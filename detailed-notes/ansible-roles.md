@@ -80,6 +80,7 @@ ___
 ---
 # References
 - [Ansible roles documentation](https://docs.ansible.com/ansible/latest/playbook_guide/playbooks_reuse_roles.html#role-directory-structure)
+- [Ansible Galaxy user guide](https://docs.ansible.com/ansible/latest/galaxy/user_guide.html)
 
 ## Tags
 #ansible-roles

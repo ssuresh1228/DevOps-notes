@@ -33,6 +33,7 @@ Created: 2023-02-02 18:57
 ---
 # References
 - [[ansible-module-types#Module Types|Ansible module types]]
+- [Ansible docs on modules](https://docs.ansible.com/ansible/latest/plugins/module.html)
 
 ## Tags
 #ansible-playbook 

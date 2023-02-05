@@ -6,11 +6,11 @@ Created: 2023-02-02 15:02
 - [[ansible-inventory-management]]
 - [[ansible-using-modules-in-playbooks]]
 - [[ansible-roles]]
-- [[using-roles-in-playbooks]]
-- [[define-execute-manage-roles]]
-- [[manage-inclusions]]
-- [[configure-jinja2-templates]]
-- [[system-facts]]
+- [[ansible-roles-in-playbooks]]
+- [[ansible-define-execute-manage-roles]]
+- [[ansible-manage-inclusions]]
+- [[ansible-jinja2-templates]]
+- [[ansible-system-facts]]
 
 ---
 ## Tags
