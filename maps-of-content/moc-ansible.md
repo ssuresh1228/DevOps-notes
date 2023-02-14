@@ -6,6 +6,7 @@
 2. [[pres-intro-config-management|Intro to Config Management]]
 3. [[pres-ansible-server-provisioning|Server Provisioning]]
 4. [[pres-ansible-modules-roles|Modules and Roles]] 
+5. [[pres-ansible-cloud|Ansible on Cloud]]
 ---
 ## Demos
 - [[demo-ad-hoc-commands|Basic Ad-hoc Commands]]
@@ -14,7 +15,7 @@
 - [[demo-ansible-playbook-with-modules|Playbook with modules]]
 - [[demo-playbook-with-roles|Playbook with roles]]
 - [[demo-playbook-with-jinja2|Playbook with jinja2 template]]
-- [[demo-manage-ansible-inventory|Manage ansible inventory]]
+- [[demo-ansible-manage-inventory|Manage ansible inventory]]
 ---
 ## AWS Setup
 - [[EC2-ansible-setup|Ansible Setup on EC2]]

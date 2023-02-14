@@ -14,6 +14,7 @@ Created: 2023-02-02 19:49
 - Role and collection manager 
 - repository of roles for steamlining tasks and playbooks
 - Hosts community createdAnsible roles and collections
+
 >[!info] 
 >Instead of writing/rewriting roles from scratch, you can directly install these roles using **Ansible Galaxy command line tool** and use them in playbooks
 
