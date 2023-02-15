@@ -19,6 +19,8 @@
 ---
 ## AWS Setup
 - [[EC2-ansible-setup|Ansible Setup on EC2]]
+- [[demo-passwordless-auth-ansible|Passwordless Authentication with Ansible]]
+- [[demo-playbook-docker-module|Ansible Playbook with Docker Module]]
 ---
 ## Classes
 1. [[class-ansible-server-provisioning]]
