@@ -61,10 +61,9 @@ Created: 2023-02-14 16:46
 
 ---
 # References
-[[demo-ansible-playbook|basic playbook example]]
+- [[demo-ansible-playbook|basic playbook example]]
 
 ## Tags
-
-#docker
-
+- #docker
+- #ansible-playbook  
 ---
