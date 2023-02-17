@@ -1,4 +1,4 @@
-# Ansible Setup on AWS EC2
+# Basic Ansible Setup on AWS EC2
 Created: 2023-02-02 13:08
 
 # Install Ansible 
