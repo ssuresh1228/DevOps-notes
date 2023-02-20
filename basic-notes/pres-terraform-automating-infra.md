@@ -8,8 +8,8 @@ Created: 2023-02-19 15:44
 1. [[terraform-features|Terraform Features]]
 2. [[terraform-vs-ansible|Terraform vs. Ansible]]
 3. [[terraform-architecture-configuration|terraform architecture and configuration]]
-4. [[terraform-commands[|Terraform Commands]]
-5. [[terraform-resource-management[|Managing resources in Terraform]]
+4. [[terraform-commands|Terraform Commands]]
+5. [[terraform-resource-management|Managing resources in Terraform]]
 
 ---
 # References

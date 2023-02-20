@@ -63,6 +63,7 @@ Created: 2023-02-19 17:56
 # References
 - [Terraform docs on core & providers](https://developer.hashicorp.com/terraform/plugin/how-terraform-works)
 - [Terraform docs on configuration](https://developer.hashicorp.com/terraform/language) 
+- [Terraform docs: resource blocks, behavior, meta arguments](https://developer.hashicorp.com/terraform/language/resources)
 
 ## Tags
 - #terraform-architecture
