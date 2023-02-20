@@ -8,6 +8,7 @@
 4. [[pres-ansible-modules-roles|Modules and Roles]] 
 5. [[pres-ansible-cloud|Ansible on Cloud]]
 6. [[pres-ansible-automating-continuous-integration|Automating Continuous Integration: Jenkins, Tomcat, and Ansible]]
+7. [[pres-terraform-automating-infra|Infrastructure Automation with Terraform]]
 ---
 ## Demos
 - [[demo-ad-hoc-commands|Basic Ad-hoc Commands]]
