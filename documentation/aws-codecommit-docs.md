@@ -1,7 +1,7 @@
 Created: 2023-02-21 15:38
 # AWS CodeCommit Reference
 ---
-1. [Atlassian guide on git branches](https://www.atlassian.com/git/tutorials/using-branches)
+1. [Atlassian guide on git branches](https://www.atlassian.com/git/tutorials/using-branches) ^de4e84
 2. [Using IAM Policies for CodeCommit](https://docs.aws.amazon.com/codecommit/latest/userguide/auth-and-access-control-iam-identity-based-access-control.html)
 3. [Refining Access to CodeCommit branches via IAM policies](https://aws.amazon.com/blogs/devops/refining-access-to-branches-in-aws-codecommit/)
 4. [Manage triggers for a CodeCommit repo](https://docs.aws.amazon.com/codecommit/latest/userguide/how-to-notify.html)
