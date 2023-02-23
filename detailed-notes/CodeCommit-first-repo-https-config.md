@@ -1,12 +1,12 @@
 Created: 2023-02-22 14:20
 # Creating a CodeCommit Repo & Configuring HTTPS Connectivity
 ---
-## Creating the CodeCommit Repo
+## 1. Creating the CodeCommit Repo
 - After creating a CodeCommit repo as a root user, the following warning will be displayed:
 	- `You are signed in using a root account. You cannot configure SSH connections for a root account, and HTTPS connections for a root account are not recommended. Consider signing in as an IAM user and then setting up your connection.`
 		- This is true; don't want to compromise root account's credentials
 
-## Setting up the IAM User
+## 2. Setting up the IAM User
 - ### Creating the user that will connect to the CodeCommit Repository:
 	- After Accessing the IAM Management Console, click on *Users*
 	- Add a user
@@ -27,7 +27,7 @@ Created: 2023-02-22 14:20
 	- Click the user in the IAM Users list, and then the *Security Credentials* tab
 		- & Scroll down to *HTTPS Git credentials for AWS CodeCommit* and generate credentials. **Save these credentials, they'll never be viewable again after closing**![[Pasted image 20230222165251.png]] 
 
-## Configuring CodeCommit Repo HTTPS Connectivity  
+## 3. Configuring CodeCommit Repo HTTPS Connectivity  
 - Click on *Clone URL*, then *Clone HTTPS*
 	- & Clone confirmation message:![[Pasted image 20230222171240.png]]
 - Open up the terminal and `git clone` this URL
