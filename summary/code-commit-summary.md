@@ -1,7 +1,8 @@
 Created: 2023-02-22 17:26
-# Creating and Configuring CodeCommit Repo
----
-- ## 3 main steps:
+___
+## Creating and Configuring CodeCommit Repo
+
+- ### 3 main steps:
 	1. Create the CodeCommit repo
 	2. Set up IAM User to connect to this repo
 		- Needs Username and a user group
@@ -12,11 +13,22 @@ Created: 2023-02-22 17:26
 	3. Clone the CodeCommit repo on your local machine
 		- On CodeCommit, click on *Clone URL*, then *Clone HTTPS* for the repo url
 			- then `git clone <url>`
-
 ---
+
+## Using branches and PRs
+- Git best practices:
+	- Create a new branch, and develop a new feature on that branch
+	- Commit and push this new branch & its new code to the remote repo
+	- Open a pull request
+		- This will show others your changes; allows others to review your code and see what changed
+		- If satisfied, your branch will be merged to main
+
+
 # References
-- [[CodeCommit-first-repo-https-config|Detailed notes]]
+- [[CodeCommit-first-repo-https-config|CodeCommit configuration detailed notes]]
+- [[CodeCommit-branches-pull-requests|Branches & pull requests detailed notes]]
 
 ## Tags
+#summary
 
 ---

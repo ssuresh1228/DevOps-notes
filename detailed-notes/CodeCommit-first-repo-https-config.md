@@ -42,6 +42,6 @@ Created: 2023-02-22 14:20
 
 ## Tags
 #codecommit-config
-#IAM-config
+#IAM
 
 ---
