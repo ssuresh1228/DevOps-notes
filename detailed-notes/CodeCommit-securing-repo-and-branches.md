@@ -90,6 +90,6 @@ Created: 2023-02-23 15:04
 - [[aws-codecommit-docs#^2a9403|Configuring an IAM policy to limit pushes and merges to a branch]]
 
 ## Tags
-#IAM **
+#IAM
 
 ---

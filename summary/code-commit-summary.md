@@ -35,7 +35,7 @@ ___
 # References
 - [[CodeCommit-first-repo-https-config|CodeCommit configuration detailed notes]]
 - [[CodeCommit-branches-pull-requests|Branches & pull requests detailed notes]]
-- [[CodeCommit-securing-repo-and-branches|Repository security via IAM]]
+- [[CodeCommit-securing-repo-and-branches|Securing repositories via IAM]]
 
 ## Tags
 #summary
