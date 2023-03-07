@@ -59,8 +59,9 @@ Created: 2023-02-24 15:42
 By creating notification rules/triggers  
 
 ## The Big Picture
-- By creating notification rules/triggers in your CodeCommit repos, we can automate whatever's happening in the repository straight nito an automation platform
+- By creating notification rules/triggers in your CodeCommit repos, we can automate whatever's happening in the repository straight into an automation platform
 	- Eg. SNS, SQS, Lambda, etc
+- From CodeCommit, we can set up notifications, triggers, CloudWatch events/rules to build automation directly into SNS and Lambda
 - **The exam will be more focused on this, not the minute differences between notifications and triggers**
 
 ___

@@ -7,6 +7,7 @@ Created: 2023-02-22 14:00
 4. [[CodeCommit-branches-pull-requests|Branches and pull requests]]
 5. [[CodeCommit-securing-repo-and-branches|Securing the repository and branches]]
 6. [[codecommit-triggers-notifications|Triggers and notifications]]
+7. [[codecommit-lambda|CodeCommit and Lambda]]
 ---
 # Summary
 - [[code-commit-summary|CodeCommit summary]]

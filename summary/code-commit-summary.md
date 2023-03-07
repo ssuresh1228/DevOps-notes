@@ -1,7 +1,6 @@
 Created: 2023-02-22 17:26
 ___
 ## Creating and Configuring CodeCommit Repo
-
 - ### 3 main steps:
 	1. Create the CodeCommit repo
 	2. Set up IAM User to connect to this repo
@@ -31,11 +30,22 @@ ___
 		- Create a new branch, develop on it, then commit 
 		- Open a pull request for merging to master branch
 - *Explicit Deny* takes precedence over any *explicit allow* permission policy
+---
+## Using CodeCommit Notification Rules/Triggers
+- Notification Rules and triggers are used in CodeCommit repositories for the sake of automation
+- Using these allows us to dive straight into an automation platform (Lambda, SNS, etc.)
+- All created rules can be viewed and edited/configured in the CloudWatch console
+--- 
+## CodeCommit Trigger for a Lambda function
+- You can create a trigger for a CodeCommit repo so that specified events trigger a Lambda function
+
 
 # References
 - [[CodeCommit-first-repo-https-config|CodeCommit configuration detailed notes]]
 - [[CodeCommit-branches-pull-requests|Branches & pull requests detailed notes]]
 - [[CodeCommit-securing-repo-and-branches|Securing repositories via IAM]]
+- [[codecommit-triggers-notifications|Triggers and Notification Rules]]
+- [[codecommit-lambda|CodeCommit trigger and Lambda]]
 
 ## Tags
 #summary
