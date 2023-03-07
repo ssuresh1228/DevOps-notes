@@ -1,7 +1,7 @@
 # CodeBuild Module
 ___
 1. [[CodeBuild-overview|CodeBuild Overview]]
-2. [[CodeBuild-first-build|CodeBuild First Build]]
+2. [[CodeBuild-basic-build|CodeBuild First Build]]
 3. 
 
 ___

@@ -1,5 +1,5 @@
 Created: 2023-03-06 18:18
-# CodeBuild First Build
+# CodeBuild Basic Build
 ---
 - Code is in version control (CodeCommit); now we move onto the next step in the CI/CD pipeline
 	- Building and testing code (CodeBuild)
@@ -52,7 +52,11 @@ Created: 2023-03-06 18:18
 >[!tip]+ Build Succeeded; passes test suite in buildspec.yml:
 >![[Pasted image 20230307143129.png]]
 >- **The build succeeded, so now the Docker container is gone**
->	- Elastic component of CodeBuild
+>	- Elastic component of CodeBuild; all resources are created in an elastic + serverless manner
+
+## Key Points
+- CodeBuild is serverless and resources are created/provisioned in an elastic manner. 
+	- When a build is completed, the provisioned Docker container is gone; no longer paying for it and its associated compute resources
 
 ---
 # References
