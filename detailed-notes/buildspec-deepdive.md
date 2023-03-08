@@ -149,8 +149,7 @@ Created: 2023-03-07 14:38
 - each block can have its own `run-as` command to run as a specified user
 
 - `finally` block
-	- run commands defined in `commands` block, whether or not they succeed
-	- then run whatever is defined in the `finally` block below it
+	- run commands defined in **its own** `commands` block, whether or not the `commands` block above it succeeds or not
 	- Every phase can have a `finally` block (e.g. used for cleanup commands)
 	
 - `artifacts` block
@@ -159,7 +158,7 @@ Created: 2023-03-07 14:38
 	- since the docker image is destroyed after the build, we have to specify the files we want to keep (e.g. save to S3)
 	
 - `cache` block
-	- can cache certain paths to speed up CodeBuild deployments
+	- can cache certain file paths to speed up CodeBuild deployments
 
 ### buildspec key points
 - Can specify different phases for install, pre_build, build, and post_build
