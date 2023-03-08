@@ -13,7 +13,7 @@ Created: 2023-03-07 18:30
 ---
 # References
 - [CodeBuild use case based samples](https://docs.aws.amazon.com/codebuild/latest/userguide/use-case-based-samples.html)
-- [[CodeBuild-Docker-ECR-demo|Implementation here]]
+- [[demo-CodeBuild-Docker-ECR|Implementation here]]
 
 ## Tags
 #docker

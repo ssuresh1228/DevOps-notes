@@ -47,11 +47,14 @@ version: 0.2
 >      - docker push $AWS_ACCOUNT_ID.dkr.ecr.$AWS_DEFAULT_REGION.amazonaws.com/$IMAGE_REPO_NAME:$IMAGE_TAG
 >```
 
+#### Environment Variable setup in CodeBuild project 
+- this buildspec.yml uses some environment variables that must be set up in order for the build to succeed:
 >[!important]+ Set up the following environment variables in this CodeBuild project:
 >1. AWS_DEFAULT_REGION: `region-id`
 >2. AWS_ACCOUNT_ID: `account-id`
 >3. IMAGE_TAG: `latest`
 >4. IMAGE_REPO_NAME: `Amazon-ECR-repo-name`
+>- These can either be added *directly* to the buildspec file as shown in [[aws-codebuild-docs#^859eea|buildspec reference]], or overridden/created in the CodeBuild console
 
 ### Dockerfile in root directory
 >[!example]+ Dockerfile contents:
@@ -70,15 +73,13 @@ WORKDIR /go/src/github.com/golang/example/hello
 >COPY --from=build /bin/HelloWorld /bin/HelloWorld
 >ENTRYPOINT ["/bin/HelloWorld"]
 
-
-
-
 ---
 # References
 - [Written guide](https://docs.aws.amazon.com/codebuild/latest/userguide/sample-docker.html#sample-docker-running)
 
 ## Tags
 - #demo 
+- #codebuild 
 - #docker 
 - #ECR
 ---

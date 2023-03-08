@@ -4,7 +4,7 @@ ___
 2. [[CodeBuild-basic-build|CodeBuild First Build]]
 3. [[buildspec-deepdive|buildspec.yml deepdive]]
 4. [[CodeBuild-docker-ECR-buildspec|CodeBuild, Docker, ECR, & buildspec.yml]] 
-	- [[CodeBuild-Docker-ECR-demo|Implementation here]]
+	- [[demo-CodeBuild-Docker-ECR|Implementation here]]
 
 ___
 # Summary
