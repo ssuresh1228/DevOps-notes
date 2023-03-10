@@ -1,7 +1,6 @@
 # AWS DevOps Professional Domain 1 Docs:
 ---
 ## 1. [[aws-codecommit-docs|AWS CodeCommit]]
-
 ^89ccde
 
 ## 2. [[aws-codebuild-docs|AWS CodeBuild]]
