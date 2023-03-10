@@ -25,7 +25,6 @@ Created: 2023-02-13 17:14
 
 
 ## Tags
-#ansible-jinja2 
-#ansible-playbook 
+#ansible/demo/playbook/jinja2 
 
 ---

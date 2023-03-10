@@ -93,6 +93,5 @@ Created: 2023-02-04 16:55
 - [How to use jinja2 template in a playbook](https://www.linuxtechi.com/configure-use-ansible-jinja2-templates/)
 
 ## Tags
-- #ansible-jinja2
-- #ansible-playbook 
+- #ansible/playbook/jinja2
 ---

@@ -54,6 +54,6 @@ Created: 2023-02-16 19:53
 - [[demo-ansible-playbook-with-modules|playbook with modules]]
 
 ## Tags
-#ansible-playbook 
+#ansible/playbook/EC2 
 
 ---

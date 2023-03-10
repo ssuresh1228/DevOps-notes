@@ -63,5 +63,5 @@ Created: 2023-03-06 18:18
 
 
 ## Tags
-- #codebuild 
+- #AWS-DevOps/codebuild/basic-build 
 ---

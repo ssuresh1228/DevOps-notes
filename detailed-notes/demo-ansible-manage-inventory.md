@@ -28,6 +28,6 @@ Created: 2023-02-13 17:33
 
 
 ## Tags
-#ansible-inventory 
+#ansible/inventory/hosts 
 
 ---

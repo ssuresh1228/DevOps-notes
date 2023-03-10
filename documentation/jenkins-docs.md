@@ -13,7 +13,6 @@ Created: 2023-02-22 13:49
 - [[domain-1-documentation|Domain 1 docs]]
 
 ## Tags
-#jenkins 
-#AWS 
+- #AWS-DevOps/docs/jenkins  
 
 ---

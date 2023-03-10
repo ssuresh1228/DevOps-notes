@@ -21,7 +21,5 @@ Created: 2023-02-21 16:11
 - [[domain-1-documentation|Domain 1 Docs]]
 
 ## Tags
-- #AWS  
-- #codedeploy
-- #cloudwatch
+- #AWS-DevOps/docs/codedeploy
 ---

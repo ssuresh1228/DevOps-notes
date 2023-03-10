@@ -67,10 +67,9 @@ By creating notification rules/triggers
 ___
 # References
 - [AWS docs: creating a notification rule](https://docs.aws.amazon.com/dtconsole/latest/userguide/notification-rule-create.html?icmpid=docs_acn_console)
-- [AWS docs: understanding notif contents/security](https://docs.aws.amazon.com/dtconsole/latest/userguide/security.html#security-notifications)
+- [AWS docs: understanding notification contents/security](https://docs.aws.amazon.com/dtconsole/latest/userguide/security.html#security-notifications)
 
 ## Tags
-- #notifications
-- #triggers
-- #cloudwatch 
+- #AWS-DevOps/cloudwatch/triggers-notifs 
+- #AWS-DevOps/codecommit/cloudwatch-triggers-notifs 
 ---

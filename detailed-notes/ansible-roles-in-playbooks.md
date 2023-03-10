@@ -57,6 +57,6 @@ Created: 2023-02-03 17:34
 - [Ansible docs: using roles in playbooks](https://docs.ansible.com/ansible/latest/playbook_guide/playbooks_reuse_roles.html#using-roles)
 
 ## Tags
-- #ansible-roles
-- #ansible-playbook 
+- #ansible/roles
+- #ansible/playbook 
 ---

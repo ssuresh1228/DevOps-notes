@@ -105,9 +105,6 @@ Created: 2023-02-16 17:46
 - [Setting up Ansible master/slave config](https://blog.programster.org/setting-up-ansible)
 
 ## Tags
-#AWS 
-#EC2 
-#ansible-setup
-#master-slave
+#ansible/setup/EC2 
 
 ---

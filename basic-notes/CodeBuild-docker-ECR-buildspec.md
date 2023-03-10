@@ -16,7 +16,7 @@ Created: 2023-03-07 18:30
 - [[demo-CodeBuild-Docker-ECR|Implementation here]]
 
 ## Tags
-#docker
-#ECR
-
+- #docker
+- #AWS-DevOps/ECR/codebuild-image
+- #AWS-DevOps/codebuild/buildspec   
 ---

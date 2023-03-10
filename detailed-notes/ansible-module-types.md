@@ -99,7 +99,5 @@ Created: 2023-02-02 15:17
 - [User module article](https://www.ansiblepilot.com/articles/create-user-account-ansible-module-user/#ansible-create-a-user-account)
 
 ## Tags
-- #ansible-modules
-- #ansible-playbook
-- #ansible-module-types
+- #ansible/modules/module-types
 ---

@@ -98,7 +98,7 @@ ___
 >- ad-hoc commands
 >- inventory
 
-## Defining and Referencing simple, list, and dictionary #variables
+## Defining and Referencing simple, list, and dictionary variables
 >[!example]
 >- defining & referencing a simple variable
 >`region: asia`
@@ -187,6 +187,7 @@ ___
 - [Ansible playbook documentation](https://docs.ansible.com/ansible/latest/playbook_guide/playbooks.html)
 
 ## Tags
-- #adhoc-commands 
-- #ansible-playbook 
+- #ansible/adhoc-commands 
+- #ansible/playbook 
+- #ansible/variables
 ---

@@ -14,6 +14,5 @@ Created: 2023-02-21 15:38
 - [[domain-1-documentation|Domain 1 Docs]]
 
 ## Tags
-- #codecommit
-- #AWS
+- #AWS-DevOps/docs/codecommit
 ---

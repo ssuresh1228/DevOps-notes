@@ -68,7 +68,7 @@ Created: 2023-03-08 15:48
 - [Troubleshooting IAM Roles](https://docs.aws.amazon.com/IAM/latest/UserGuide/troubleshoot_roles.html)
 
 ## Tags
-#S3
-#Artifact
+- #AWS-DevOps/S3/upload-artifacts
+- #AWS-DevOps/codebuild/artifacts 
 
 ---

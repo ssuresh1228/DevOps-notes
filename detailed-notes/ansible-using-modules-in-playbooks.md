@@ -36,7 +36,6 @@ Created: 2023-02-02 18:57
 - [Ansible docs on modules](https://docs.ansible.com/ansible/latest/plugins/module.html)
 
 ## Tags
-#ansible-playbook 
-#ansible-modules 
+#ansible/playbook/using-modules 
 
 ---

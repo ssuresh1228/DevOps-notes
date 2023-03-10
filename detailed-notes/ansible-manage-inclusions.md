@@ -52,6 +52,6 @@ Created: 2023-02-04 16:10
 - [Ansible docs: Playbook Roles & Include Statements](https://docs.ansible.com/ansible/latest/playbook_guide/playbooks_roles.html#playbook-roles-and-include-statements)
 
 ## Tags
-- #ansible-playbook 
-- #ansible-includes  
+- #ansible/playbook 
+- #ansible/roles/include-statement  
 ---

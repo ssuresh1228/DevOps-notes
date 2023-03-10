@@ -31,4 +31,6 @@ Ansible's push based approach eliminates the need for polling with central serve
 - [Edureka Ansible Presentation 1](https://learning.edureka.co/classroom/presentation/1483/12387/1479293?tab=CourseContent)
 
 ## Tags
-#ansible-configuration-management
+#ansible/overview
+
+---

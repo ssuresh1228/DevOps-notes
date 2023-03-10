@@ -32,7 +32,7 @@ Created: 2023-02-22 18:39
 - [[aws-codecommit-docs#^de4e84|Atlassian guide on branches]]
 
 ## Tags
-#branch
-#pull-request
+#AWS-DevOps/codecommit/branch 
+#AWS-DevOps/codecommit/pull-request 
 
 ---

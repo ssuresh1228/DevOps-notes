@@ -16,7 +16,5 @@ Created: 2023-02-21 17:47
 - [[domain-1-documentation|Domain 1 docs]]
 
 ## Tags
-- #AWS 
-- #codepipeline
-
+- #AWS-DevOps/docs/codepipeline
 ---

@@ -84,7 +84,6 @@ ___
 - [Ansible Galaxy user guide](https://docs.ansible.com/ansible/latest/galaxy/user_guide.html)
 
 ## Tags
-#ansible-roles
-#ansible-galaxy
+#ansible/roles/galaxy
 
 ---

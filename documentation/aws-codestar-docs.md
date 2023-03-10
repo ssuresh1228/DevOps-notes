@@ -8,7 +8,5 @@ Created: 2023-02-21 18:29
 - [[domain-1-documentation|domain 1 docs]]
 
 ## Tags
-- #AWS 
-- #codestar
-
+- #AWS-DevOps/docs/codestar 
 ---

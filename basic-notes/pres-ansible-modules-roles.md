@@ -13,8 +13,5 @@ Created: 2023-02-02 15:02
 - [[ansible-system-facts|Ansible system facts]]
 ---
 ## Tags
-- #ansible-modules
-- #ansible-roles 
-- #ansible-playbook
-- #ansible-inventory 
+- #ansible/presentation/modules-roles
 ---

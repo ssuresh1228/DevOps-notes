@@ -33,7 +33,7 @@ Created: 2023-02-02 18:08
 ---
 # Dynamic Host Inventory file
 - A script written in python, php, or some other language
-- Useful for cloud platforms like #AWS where IP addresses change when servers restart
+- Useful for cloud platforms like AWS where IP addresses change when servers restart
 - Ansible has inventory scripts for 
 	- GCP
 	- RackSpace
@@ -51,5 +51,5 @@ Created: 2023-02-02 18:08
 - [Ansible inventory documentation](https://docs.ansible.com/ansible/latest/inventory_guide/intro_inventory.html)
 
 ## Tags
-- #ansible-inventory 
+- #ansible/inventory/management 
 ---

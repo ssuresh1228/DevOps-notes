@@ -65,5 +65,5 @@ Created: 2023-02-14 16:46
 
 ## Tags
 - #docker
-- #ansible-playbook  
+- #ansible/demo/playbook/docker  
 ---

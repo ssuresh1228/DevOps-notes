@@ -77,9 +77,8 @@ WORKDIR /go/src/github.com/golang/example/hello
 # References
 - [Written guide](https://docs.aws.amazon.com/codebuild/latest/userguide/sample-docker.html#sample-docker-running)
 
-## Tags
-- #demo 
-- #codebuild 
+## Tags 
 - #docker 
-- #ECR
+- #AWS-DevOps/ECR/push-codebuild-image
+- #AWS-DevOps/demo/codebuild/ECR 
 ---

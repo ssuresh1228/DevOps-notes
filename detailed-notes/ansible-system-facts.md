@@ -81,6 +81,6 @@ Facts gathered from remote hosts can be divided into 3 main categories:
 - [facts and examples](https://www.educba.com/ansible-facts/)
 
 ## Tags
-#ansible-facts
+#ansible/facts
 
 ---

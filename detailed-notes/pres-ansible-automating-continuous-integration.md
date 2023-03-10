@@ -25,7 +25,6 @@ Created: 2023-02-14 18:58
 
 
 ## Tags
-#ansible-configuration-management 
-#continuous-integration
+#ansible/demo/automating-CI 
 
 ---

@@ -17,4 +17,5 @@ ___
 - [[aws-codebuild-docs|CodeBuild docs]]
 
 ### Tags
-- #codebuild 
+- #map-of-content
+- #AWS-DevOps/codebuild/module  
