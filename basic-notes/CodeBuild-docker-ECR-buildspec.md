@@ -18,5 +18,5 @@ Created: 2023-03-07 18:30
 ## Tags
 - #docker
 - #AWS-DevOps/ECR/codebuild-image
-- #AWS-DevOps/codebuild/buildspec   
+- #AWS-DevOps/CodeBuild/buildspec   
 ---

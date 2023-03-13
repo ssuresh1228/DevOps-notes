@@ -16,6 +16,6 @@ Created: 2023-02-22 14:00
 - [[domain-1-documentation#1. aws-code-commit-docs AWS CodeCommit|CodeCommit Docs]]
 
 ## Tags
-- #AWS-DevOps/codecommit/module 
+- #AWS-DevOps/CodeCommit/module 
 - #map-of-content 
 ---

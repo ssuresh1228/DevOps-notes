@@ -43,5 +43,5 @@ Created: 2023-03-01 19:12
 ## Tags
 - #lambda
 - #AWS-DevOps/lambda
-- #AWS-DevOps/codecommit/lambda-function  
+- #AWS-DevOps/CodeCommit/lambda-function  
 ---

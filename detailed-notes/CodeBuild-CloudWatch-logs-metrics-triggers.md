@@ -53,9 +53,9 @@ Created: 2023-03-09 13:49
 - [CodeBuild resources/operations doc: Project ARN](https://docs.aws.amazon.com/codebuild/latest/userguide/auth-and-access-control-iam-access-control-identity-based.html#arn-formats)
 
 ## Tags
-- #AWS-DevOps/cloudwatch/cloudwatch-events
-- #AWS-DevOps/cloudwatch/metrics
-- #AWS-DevOps/cloudwatch/triggers
-- #AWS-DevOps/codebuild/cloudwatch-integration
-- #AWS-DevOps/eventbridge/rules
+- #AWS-DevOps/CloudWatch/cloudwatch-events
+- #AWS-DevOps/CloudWatch/metrics
+- #AWS-DevOps/CloudWatch/triggers
+- #AWS-DevOps/CodeBuild/cloudwatch-integration
+- #AWS-DevOps/EventBridge/rules
 ---

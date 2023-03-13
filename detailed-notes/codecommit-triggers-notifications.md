@@ -70,6 +70,6 @@ ___
 - [AWS docs: understanding notification contents/security](https://docs.aws.amazon.com/dtconsole/latest/userguide/security.html#security-notifications)
 
 ## Tags
-- #AWS-DevOps/cloudwatch/triggers-notifs 
-- #AWS-DevOps/codecommit/cloudwatch-triggers-notifs 
+- #AWS-DevOps/CloudWatch/triggers-notifs 
+- #AWS-DevOps/CodeCommit/cloudwatch-triggers-notifs 
 ---

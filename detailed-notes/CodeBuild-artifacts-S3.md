@@ -69,6 +69,6 @@ Created: 2023-03-08 15:48
 
 ## Tags
 - #AWS-DevOps/S3/upload-artifacts
-- #AWS-DevOps/codebuild/artifacts 
+- #AWS-DevOps/CodeBuild/artifacts 
 
 ---

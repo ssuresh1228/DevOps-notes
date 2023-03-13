@@ -235,5 +235,5 @@ version: 0.2
 - [[aws-codebuild-docs#^859eea|AWS Docs: Buildspec file reference]]
 
 ## Tags
-- #AWS-DevOps/codebuild/buildspec 
+- #AWS-DevOps/CodeBuild/buildspec 
 ---

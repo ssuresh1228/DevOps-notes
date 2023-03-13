@@ -41,7 +41,7 @@ Created: 2023-02-22 14:20
 - [Setup for HTTPS users using Git Credentials](https://docs.aws.amazon.com/codecommit/latest/userguide/setting-up-gc.html?icmpid=docs_acc_console_connect_np)
 
 ## Tags
-#AWS-DevOps/codecommit/config
+#AWS-DevOps/CodeCommit/config
 #AWS-DevOps/IAM/setup-user
 
 ---

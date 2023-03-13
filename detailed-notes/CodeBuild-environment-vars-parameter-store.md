@@ -36,6 +36,6 @@ Created: 2023-03-08 14:36
 - [[aws-codebuild-docs#^e0a0d1|Environment variables reference]]
 
 ## Tags
-- #AWS-DevOps/codebuild/environment-variables
+- #AWS-DevOps/CodeBuild/environment-variables
 - #AWS-DevOps/SSM/parameter-store
 ---
