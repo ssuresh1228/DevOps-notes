@@ -8,3 +8,4 @@
 ## 4. [[aws-codepipeline-docs|AWS CodePipeline]]
 ## 5. [[aws-codestar-docs|AWS CodeStar]]
 ## 6. [[jenkins-docs|Jenkins]]
+## 7. [[aws-cli-docs|AWS CLI]]
