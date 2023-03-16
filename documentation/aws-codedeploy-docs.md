@@ -2,9 +2,10 @@ Created: 2023-02-21 16:11
 # AWS CodeDeploy Reference
 ---
 - [Minimum healthy hosts](https://docs.aws.amazon.com/codedeploy/latest/APIReference/API_MinimumHealthyHosts.html)
-- [AppSpec 'hooks' section](https://docs.aws.amazon.com/codedeploy/latest/userguide/reference-appspec-file-structure-hooks.html)
+- [Appspec file reference](https://docs.aws.amazon.com/codedeploy/latest/userguide/reference-appspec-file.html) ^efe08b
+- [AppSpec 'hooks' section](https://docs.aws.amazon.com/codedeploy/latest/userguide/reference-appspec-file-structure-hooks.html) ^7dcfbf
 - [AppSpec 'hooks' section for servers](https://docs.aws.amazon.com/codedeploy/latest/userguide/reference-appspec-file-structure-hooks.html#appspec-hooks-server)
-- [Environment availability for hooks](https://docs.amazonaws.cn/en_us/codedeploy/latest/userguide/reference-appspec-file-structure-hooks.html#reference-appspec-file-structure-environment-variable-availability)
+- [Environment availability for hooks](https://docs.amazonaws.cn/en_us/codedeploy/latest/userguide/reference-appspec-file-structure-hooks.html#reference-appspec-file-structure-environment-variable-availability) ^8d4231
 - [Monitoring deployments with CloudWatch events](https://docs.aws.amazon.com/codedeploy/latest/userguide/monitoring-cloudwatch-events.html)
 - [Viewing CodeDeploy logs in CloudWatch console](https://aws.amazon.com/blogs/devops/view-aws-codedeploy-logs-in-amazon-cloudwatch-console/)
 - [Monitoring deployments with Amazon SNS event notifications](https://docs.aws.amazon.com/codedeploy/latest/userguide/monitoring-sns-event-notifications.html)
