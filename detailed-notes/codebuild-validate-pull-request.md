@@ -26,5 +26,6 @@ Created: 2023-03-09 19:19
 ## Tags
 - #AWS-DevOps/CodeBuild/codecommit-lambda 
 - #AWS-DevOps/lambda/pull-request 
-- #AWS-DevOps/EventBridge/integration 
+- #AWS-DevOps/EventBridge/integration
+- #AWS-DevOps/EventBridge/CodeCommit
 ---

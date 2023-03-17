@@ -1,7 +1,7 @@
 Created: 2023-03-15 17:06
 # CodeDeploy: appspec.yml deepdive
 ---
-- Just like CodeBuild has [[buildspec-deepdive|buildspec.yml]], CodeDeploy has appspec.yml
+- Just like CodeBuild has [[CodeBuild-buildspec-deepdive|buildspec.yml]], CodeDeploy has appspec.yml
 	- represents how a deployment will be handled
 >[!info]+ appspec.yml in CodeCommit repo:
 >```

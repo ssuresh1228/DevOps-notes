@@ -2,7 +2,7 @@
 ___
 1. [[CodeBuild-overview|CodeBuild Overview]]
 2. [[CodeBuild-basic-build|CodeBuild First Build]]
-3. [[buildspec-deepdive|buildspec.yml deepdive]]
+3. [[CodeBuild-buildspec-deepdive|buildspec.yml deepdive]]
 4. [[CodeBuild-docker-ECR-buildspec|CodeBuild, Docker, ECR, & buildspec.yml]] 
 	- [[demo-CodeBuild-Docker-ECR|Implementation here]]
 5. [[CodeBuild-environment-vars-parameter-store|Environment Variables and SSM Parameter Store]]
