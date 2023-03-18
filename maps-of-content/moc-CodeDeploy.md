@@ -8,7 +8,7 @@
 7. [[CodeDeploy-hooks-environment-variables|Hooks and environment variables]]
 8. [[CodeDeploy-EventBridge-events-logs-alarms-triggers|EventBridge events, logs, alarms, and triggers]]
 9. [[CodeDeploy-rollbacks|Rollbacks]]
-10.[[CodeDeploy-on-premise-setup|On-premise instance setup]]
+10.[[CodeDeploy-on-premises-setup|On-premise instance setup]]
 11.[[CodeDeploy-lambda-deployment|Deploying to Lambda]] 
 
 --- 

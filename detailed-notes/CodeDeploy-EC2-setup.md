@@ -36,5 +36,5 @@ Created: 2023-03-13 14:06
 - [Getting Started with CodeDeploy](https://docs.aws.amazon.com/codedeploy/latest/userguide/getting-started-codedeploy.html)
 
 ## Tags
-- #AWS-DevOps/CodeDeploy/setup 
+- #AWS-DevOps/CodeDeploy/EC2-setup 
 ---
