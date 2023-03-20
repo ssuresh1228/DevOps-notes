@@ -64,6 +64,12 @@ Created: 2023-03-18 17:26
 			- specify percentage of traffic to shift to new lambda function
 		- increment 2
 			- specify number of mins before all traffic on older version is shifted to new version
+- Appspec.yml 
+	- We only have 2 hooks available for use to invoke other lambda functions
+		- `BeforeAllowTraffic`
+			- perform checks/setup before traffic is allowed
+		- `AfterAllowTraffic`
+			- use for running health checks/monitoring after traffic is allowed 
 ---
 # References
 - [Deploying updated Lambda function with CodeDeploy (SAM - serverless application model)](https://docs.aws.amazon.com/codedeploy/latest/userguide/tutorial-lambda-sam.html)
