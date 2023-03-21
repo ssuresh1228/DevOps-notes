@@ -46,6 +46,7 @@ Created: 2023-03-20 15:10
 ## Step 3: Add Build Stage (optional)
 - skip for now
 	- Can configure Jenkins or CodeBuild here
+- [[CodePipeline-adding-CodeBuild|Build stage config here]]
 
 ## Step 4: Add Deploy Stage
 >[!info]+ Config:

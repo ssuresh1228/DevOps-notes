@@ -3,6 +3,8 @@ Created: 2023-03-18 20:11
 ---
 - [[CodePipline-intro-overview|Overview]]
 - [[CodePipeline-CodeCommit-CodeDeploy|CodeCommit & CodeDeploy]]
+- [[CodePipeline-adding-CodeBuild|Adding CodeBuild build stage]]
+
 ---
 # References
 - [[aws-codepipeline-docs|CodePipeline docs]]

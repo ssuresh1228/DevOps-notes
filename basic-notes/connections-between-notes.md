@@ -1,1 +1,0 @@
-Use double square brackets to link a note within another note
