@@ -18,7 +18,6 @@ Created: 2023-03-20 17:42
 	- ![[Pasted image 20230320185233.png]]
 	- The artifacts generated here are *different* than the artifacts generated in CodePipeline
 		- These artifacts generated in CodeBuild are more or less reused for CodePipeline's purposes
- 
 
 ---
 # References

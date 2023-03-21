@@ -5,7 +5,7 @@ Created: 2023-03-18 20:11
 - [[CodePipeline-CodeCommit-CodeDeploy|CodeCommit & CodeDeploy]]
 - [[CodePipeline-adding-CodeBuild|Adding CodeBuild build stage]]
 - [[CodePipeline-artifacts-S3-encryption|Artifacts, S3, and encryption]]
-
+- [[CodePipeline-manual-approval-steps|Manual approval & steps]]
 ---
 # References
 - [[aws-codepipeline-docs|CodePipeline docs]]
